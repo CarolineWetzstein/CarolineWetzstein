@@ -12,7 +12,7 @@ ______________________________________________
 ### About me
 
 <p align="justify">
-Quality-focused Software Development Engineer in Test (SDET) with over 1 years of hands-on experience in web application testing. Skilled in conducting manual and automated testing across diverse (UI, API, and Database) components, using different technologies. Proficient in creating thorough test strategies, crafting effective test cases, and generating robust code to ensure the delivery of high-quality and low-defect software. A collaborative team member who excels in innovative problem-solving and agile practices. Committed to enhancing software quality through efficient solutions and careful bug fixing. Exceptional drive to continuously learn and master cutting-edge technologies, keen attention to detail, and strong analytical and logical thinking abilities. 
+Quality-focused Software Development Engineer in Test (SDET) with hands-on experience in web application testing. Skilled in conducting manual and automated testing across diverse (UI, API, and Database) components, using different technologies. Proficient in creating thorough test strategies, crafting effective test cases, and generating robust code to ensure the delivery of high-quality and low-defect software. A collaborative team member who excels in innovative problem-solving and agile practices. Committed to enhancing software quality through efficient solutions and careful bug fixing. Exceptional drive to continuously learn and master cutting-edge technologies, keen attention to detail, and strong analytical and logical thinking abilities. 
 </p>
 
 _____________________________________________________________

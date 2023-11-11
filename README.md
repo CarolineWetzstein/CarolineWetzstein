@@ -11,6 +11,7 @@ ______________________________________________
 <h3 align="center">
 SDET | QA Automation Specialist  
 </h3>
+
 ### About me
 
 <p align="justify">

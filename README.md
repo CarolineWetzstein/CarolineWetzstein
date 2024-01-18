@@ -1,10 +1,10 @@
 ____________________________________________________________
 
 <h1 align="center">
- Hello! Welcome to my Github! 👋
+ Hello! Welcome to my GitHub! 👋
 </h1>
 <h2 align="center">
-😃 I'm Caroline Wetzstein. 😃
+
 </h2>
 
 ______________________________________________

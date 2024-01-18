@@ -1,7 +1,7 @@
 ____________________________________________________________
 
 <h1 align="center">
- Hello! Welcome to my page! 👋
+ Hello! Welcome to my Github! 👋
 </h1>
 <h2 align="center">
 😃 I'm Caroline Wetzstein. 😃

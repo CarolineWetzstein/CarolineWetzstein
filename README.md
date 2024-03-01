@@ -35,7 +35,7 @@ _____________________________________________________________
  <img align="center" alt="CW.MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="CW.ApachePOI" height="40" width="50" src="https://camo.githubusercontent.com/0a127d29a580eb5f013de736bf6f7ba0af78146463275b8654b8479d82feafd6/68747470733a2f2f7374617469632e6a61766174706f696e742e636f6d2f6170616368652d706f692f696d616765732f6170616368652d706f692d7475746f7269616c2e706e67">
  <img align="center" alt="CW.JavaJDBC" height="40" width="50" src="https://camo.githubusercontent.com/e12b1462933deb496f899f60405f4922008b9aeedba69f6708ae8e19ae0b610c/68747470733a2f2f6e6568616a61696e3231362e6769746875622e696f2f696d672f6a6462632e706e67">
- <img align="center" alt="CW.Postman" height="40" width="50" src="https://camo.githubusercontent.com/7da26f034e5915d8e953b9e339f3cfa41620073e9fcd3ff6acea43d4175176c1/68747470733a2f2f766f79616765722e706f73746d616e2e636f6d2f6c6f676f2f706f73746d616e2d6c6f676f2d6f72616e67652d737461636b65642e737667">
+ <img align="center" alt="CW.Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
  <img align="center" alt="CW.RestAssured" height="40" width="50" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4">
  <img align="center" alt="CW.Jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
  <img align="center" alt="CW.IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">

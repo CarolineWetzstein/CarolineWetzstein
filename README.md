@@ -27,21 +27,21 @@ _____________________________________________________________
 </div>
 <div style="display: inline_block"><br>
  <p align="center">
- <img align="center" alt="CW.Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
- <img align="center" alt="CW.HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
- <img align="center" alt="CW.Selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
- <img align="center" alt="CW.TestNG" height="40" width="50" src="https://camo.githubusercontent.com/f42fcbb77f96b4e489be14d027aff028d5efd3c41d0638b1a890d4ce3ca74609/68747470733a2f2f69302e77702e636f6d2f626c6f672e6b6e6f6c6475732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30312f544553544e472e706e673f726573697a653d313032342532433537362673736c3d31">
- <img align="center" alt="CW.Cucumber" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
- <img align="center" alt="CW.MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
- <img align="center" alt="CW.ApachePOI" height="40" width="50" src="https://camo.githubusercontent.com/0a127d29a580eb5f013de736bf6f7ba0af78146463275b8654b8479d82feafd6/68747470733a2f2f7374617469632e6a61766174706f696e742e636f6d2f6170616368652d706f692f696d616765732f6170616368652d706f692d7475746f7269616c2e706e67">
- <img align="center" alt="CW.JavaJDBC" height="40" width="50" src="https://camo.githubusercontent.com/e12b1462933deb496f899f60405f4922008b9aeedba69f6708ae8e19ae0b610c/68747470733a2f2f6e6568616a61696e3231362e6769746875622e696f2f696d672f6a6462632e706e67">
- <img align="center" alt="CW.Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  
+ <img align="center" alt="CW.Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+ <img align="center" alt="CW.HTML" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
+ <img align="center" alt="CW.Selenium" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+ <img align="center" alt="CW.TestNG" height="40" width="50" src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png">
+ <img align="center" alt="CW.Cucumber" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
+ <img align="center" alt="CW.MySQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="CW.ApachePOI" height="20" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Apache_POI_project_logo_%282018%29.svg/487px-Apache_POI_project_logo_%282018%29.svg.png">
+ <img align="center" alt="CW.JavaJDBC" height="40" width="50" src="https://nehajain216.github.io/img/jdbc.png">
+ <img align="center" alt="CW.Postman" height="40" width="50" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
  <img align="center" alt="CW.RestAssured" height="40" width="50" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4">
- <img align="center" alt="CW.Jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
- <img align="center" alt="CW.IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
- <img align="center" alt="CW.Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
- <img align="center" alt="CW.Xray" height="40" width="50" src="https://camo.githubusercontent.com/fbd972944eaa74012347b6258db75fce6d1c9ca7159e83cde6db7c7eb2b3a908/68747470733a2f2f63706e672e70696b706e672e636f6d2f706e676c2f732f3536312d353631333333335f63757474696e672d656467652d746573742d6d616e6167656d656e742d677261706869632d64657369676e2d636c69706172742e706e67">
-  <img align="center" alt="CW.Maven" height="200" width="250" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg">
+ <img align="center" alt="CW.Jenkins" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426">
+ <img align="center" alt="CW.IntelliJ" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png">
+ <img align="center" alt="CW.Jira" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg">
+  <img align="center" alt="CW.Maven" height="40" width="50" src="https://www.ambient-it.net/wp-content/uploads/2022/05/Logo-Apache-Maven.png">
   <img align="center" alt="CW.Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
  </p>
 </div>

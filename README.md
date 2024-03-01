@@ -41,7 +41,7 @@ _____________________________________________________________
  <img align="center" alt="CW.IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
  <img align="center" alt="CW.Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
  <img align="center" alt="CW.Xray" height="40" width="50" src="https://camo.githubusercontent.com/fbd972944eaa74012347b6258db75fce6d1c9ca7159e83cde6db7c7eb2b3a908/68747470733a2f2f63706e672e70696b706e672e636f6d2f706e676c2f732f3536312d353631333333335f63757474696e672d656467652d746573742d6d616e6167656d656e742d677261706869632d64657369676e2d636c69706172742e706e67">
-  <img align="center" alt="CW.Maven" height="400" width="500" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg">
+  <img align="center" alt="CW.Maven" height="200" width="250" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg">
   <img align="center" alt="CW.Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
  </p>
 </div>

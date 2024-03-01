@@ -10,7 +10,7 @@ ____________________________________________________________
 
 ______________________________________________
 <h3 align="center">
-SDET | QA Automation Specialist  
+SDET | QA Automation Specialist | Software Tester  
 </h3>
 
 ### About me
